@@ -18,3 +18,9 @@ Detailed [python file](https://github.com/HarshineeRoopakula/Web-Scraping-Projec
 YouTube lets us to scrape the videos, download videos. This can be done by installing the **pytube** module in Python.</br> 
 No additional access is required for scraping.
 Detailed [python file](https://github.com/HarshineeRoopakula/Web-Scraping-Project/tree/main/YouTube%20Scraping) is attached which details the steps and procedure. 
+
+### Web Scraping of Reddit
+
+Reddit lets us to scrape the posts and comments.  This can be done by installing the **praw** module in Python.</br> 
+**Credentials** are required to scrape the data.
+Detailed [python file](https://github.com/HarshineeRoopakula/Web-Scraping-Project/tree/main/Reddit%20Scraping) is attached which details the steps and procedure. 
