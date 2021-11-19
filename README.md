@@ -1,5 +1,5 @@
 # Backend-Projects
-Projects on Python, OOP concepts, REST API, Web Scraping, Git, MySQL, MongoDB.<br>
+Projects on Python, Java, OOP concepts, REST API, Web Scraping, Git, MySQL, MongoDB.<br>
 
 ✪ [𝐀𝐩𝐩𝐨𝐢𝐧𝐭𝐦𝐞𝐧𝐭 𝐒𝐜𝐡𝐞𝐝𝐮𝐥𝐞𝐫](https://github.com/HarshineeRoopakula/Backend-Projects/tree/main/Appointment%20Scheduler) <br>
 • Developed an application that helps a customer to schedule an appointment with a magician on a particular holiday. <br>
